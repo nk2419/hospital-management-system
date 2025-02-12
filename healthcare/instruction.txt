@@ -1,0 +1,14 @@
+open folder in vs code and run the main file(program will run)
+
+go in credits.java and change the name accordingly
+
+in mysql daabase name is hospital and table names are patient,diag,bill
+patient table has column name("name","address","contact","age","sex","blood_group","disease","patient_id")
+bill table has column name("ward_fee","service_fee","doctor_fee","patient_id","total_fee")
+diag table has column name("doctor","diagnosis","medicine","admitted","ward","patient_id")
+
+in mysql keep password as diu4avLo@
+for login in program the password is password:app
+
+add the mysql connector jar file in java project to connect mysql
+
